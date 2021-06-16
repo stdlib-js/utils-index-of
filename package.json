@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-index-of",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Return the first index at which a given element can be found.",
   "license": "Apache-2.0",
   "author": {
