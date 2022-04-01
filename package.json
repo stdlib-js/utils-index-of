@@ -1,0 +1,43 @@
+{
+  "name": "@stdlib/utils-index-of",
+  "version": "0.0.0",
+  "description": "Return the first index at which a given element can be found.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/utils-index-of.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdutils",
+    "stdutil",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "indexof",
+    "array",
+    "object",
+    "array-like",
+    "string",
+    "search",
+    "find",
+    "locate",
+    "index",
+    "polyfill",
+    "ponyfill",
+    "arr",
+    "str",
+    "obj"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
