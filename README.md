@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import indexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-index-of@esm/index.mjs';
+import indexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-index-of@v0.1.0-esm/index.mjs';
 ```
 
 #### indexOf( arr, searchElement\[, fromIndex] )
@@ -177,7 +177,7 @@ var idx = indexOf( str, 'o' );
 <body>
 <script type="module">
 
-import indexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-index-of@esm/index.mjs';
+import indexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-index-of@v0.1.0-esm/index.mjs';
 
 var arr;
 var obj;
