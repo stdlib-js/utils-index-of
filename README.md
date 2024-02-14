@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import indexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-index-of@deno/mod.js';
+import indexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-index-of@v0.2.0-deno/mod.js';
 ```
 
 #### indexOf( arr, searchElement\[, fromIndex] )
@@ -172,7 +172,7 @@ var idx = indexOf( str, 'o' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import indexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-index-of@deno/mod.js';
+import indexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-index-of@v0.2.0-deno/mod.js';
 
 var arr;
 var obj;
