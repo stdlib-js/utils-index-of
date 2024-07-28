@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-index-of",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Return the first index at which a given element can be found.",
   "license": "Apache-2.0",
   "author": {
@@ -38,12 +38,12 @@
   },
   "dependencies": {
     "@stdlib/assert-is-collection": "^0.2.1",
-    "@stdlib/assert-is-integer": "^0.2.1",
-    "@stdlib/assert-is-nan": "^0.2.1",
-    "@stdlib/assert-is-string": "^0.2.1",
-    "@stdlib/string-format": "^0.2.1",
+    "@stdlib/assert-is-integer": "^0.2.2",
+    "@stdlib/assert-is-nan": "^0.2.2",
+    "@stdlib/assert-is-string": "^0.2.2",
+    "@stdlib/string-format": "^0.2.2",
     "@stdlib/types": "^0.3.2",
-    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/math-base-special-pow": "^0.2.1",
